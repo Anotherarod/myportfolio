@@ -1,8 +1,8 @@
 import React from "react";
-import Navbar from "react-bootstrap/Navbar";
-import Nav from "react-bootstrap/Nav";
+import Navbar from "react-bootstrap/navbar";
+import Nav from "react-bootstrap/nav";
 // import Logo from "../../assets/icons/logow.webp";
-import "./my-navbar.styles.css";
+import "./navbar.styles.css";
 
 const MyNavbar = () => {
   return (
